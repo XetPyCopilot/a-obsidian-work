@@ -11,10 +11,14 @@
             "id": "182bbccafe6b6b15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Задачи.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Задачи"
             }
           }
         ]
@@ -179,5 +183,7 @@
     }
   },
   "active": "182bbccafe6b6b15",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Задачи.md"
+  ]
 }
